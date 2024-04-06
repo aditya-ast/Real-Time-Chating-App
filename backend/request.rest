@@ -1,0 +1,12 @@
+POST http://localhost:3001/authenticate
+content-type: application/json
+
+{
+  "username": "RTS lodu"
+}
+
+
+
+# https://blog.chatengine.io/fullstack-chat/nodejs-reactjs     ----> for code basic
+
+# https://chatengine.io/projects/c67691e4-405a-4f4c-9e6d-4e19b552a4e7#settings ----> backend admin
